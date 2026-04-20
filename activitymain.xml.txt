@@ -33,7 +33,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Ishwar Singh Shekhawat"
+            android:text="Manan Bansal"
             android:textSize="22sp"
             android:textStyle="bold"
             android:layout_gravity="center"
